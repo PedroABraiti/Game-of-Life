@@ -10,6 +10,8 @@ Uma representação do jogo matematico Game of Life de Conway.
 
 ➥ Visualização em Tempo Real da simulação.
 
-TECNOLOGIAS UTILIZADAS:
+___________________________________________________________________________________
+
+**TECNOLOGIAS UTILIZADAS:**
 
 ➦ C: Linguagem de programação utilizada.
